@@ -1,5 +1,15 @@
 # Projet Globe
 
+<table>
+<tr>
+<td>
+   Projet de mise en oeuvre des différentes méthodologie de gestion de projet. SCRUM - KANBAN - WATERFALL - CYCLE EN V 
+</td>
+</tr>
+</table>
 
-projet-globe ( la base de la gestion d'un projet complet )
-GitHub Stars GitHub Issues Current Version Live Demo Gitter
+## Table of Contents
+
+- [Introduction](#introduction)
+
+
