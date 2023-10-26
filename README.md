@@ -32,3 +32,6 @@ Il est composé de :
 - Les documents annexes ( diagrammes, maquettes )
 
 Il définit également les normes et attentes de sécurité, de performances et intègre les plan de déploiements, de tests et de maintenance.
+
+Document associé :
+- cahier_des_charges.pdf
