@@ -12,6 +12,9 @@
 
 - [Introduction](#introduction)
 - [Cahier des charges](#cahierdescharges)
+- [Base de données](#cahierdescharges)
+- [Utilisation du projet](#cahierdescharges)
+- [Diagramme de classe](#cahierdescharges)
 
 ## Introduction
 
